@@ -43,12 +43,21 @@ career-profile:
     summary: |
       A Strong information technology professional with a Master's degree in Quality assurance from Hellenic Open University.
  
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: Msc Pervasive and Mobile Computing Systems 
-        university: Hellenic Open University  
-        time:   2020-Present
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -57,10 +66,10 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-       - degree: MSc in Quality Assurance
-         university: Hellenic Open University 
-         time: 2015-2018
-         details: |
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -69,7 +78,6 @@ education:
             - Bullet point
             - Bullet point
  
-            
 experiences:
     title: Experiences
     info:
