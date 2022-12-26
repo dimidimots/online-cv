@@ -141,6 +141,28 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point       
+   - role: Customer Technical Support
+        time:  2012-2019
+        company: OTE Group of Companies (HTO)
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point       
+   - role: Customer Technical Support
+        time:  2012-2019
+        company: OTE Group of Companies (HTO)
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point                
 projects:
     title: Projects
     intro: >
