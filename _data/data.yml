@@ -57,10 +57,10 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: MSc in Quality Assurance
-        university: Hellenic Open University 
-        time: 2015-2018
-        details: |
+       - degree: MSc in Quality Assurance
+         university: Hellenic Open University 
+         time: 2015-2018
+         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
