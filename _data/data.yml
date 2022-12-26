@@ -13,21 +13,10 @@ sidebar:
 
     # Sidebar links
     email: dimitrisdimotsis@yahoo.com
-    phone: +306974406000 
-    timezone:  
+    phone: +306974406000  
     citizenship: Greek
-    website: blog.webjeda.com #do not add http://
     linkedin: dimitris-dimotsis-258896222
-    xing:  
-    github:  
-    telegram: 
-    gitlab:
-    bitbucket:
-    twitter:  
-    stack-overflow:  
-    codewars:
-    goodreads:  
-    pdf:  
+
 
     languages:
       title: Languages
@@ -47,21 +36,13 @@ sidebar:
         - item: Climbing
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A Strong information technology professional with a Master's degree in Quality assurance from Hellenic Open University.
+ 
 education:
     title: Education
     info:
@@ -87,6 +68,11 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+       - degree: BSc in Computer Science
+          time: 2001-2009
+          university: Technological Educational Institute of Thessaloniki
+            
+            
 experiences:
     title: Experiences
     info:
