@@ -16,9 +16,7 @@ sidebar:
     phone: +306974406000  
     citizenship: Greek
     linkedin: dimitris-dimotsis-258896222
-    age: 39
-
-
+ 
     languages:
       title: Languages
       info:
@@ -74,7 +72,7 @@ experiences:
         details: |
            Worlwide responsible for any customer support interaction. 
            Providing collaboration between development and operations depts.  
-           Reproducing bugs and analysing any customer feauture requests in video, gif, Figma, or plain language. 
+           Reproducing bugs and analysing customer feauture request in video, gif, Figma, or plain language. 
            Remotely assisting in IT, RDWeb, SQL Server Management Studio related issues.
             - Jira administrator
             - Knowledge base administrator 
