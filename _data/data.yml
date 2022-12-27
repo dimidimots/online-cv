@@ -67,11 +67,11 @@ experiences:
     title: Experiences
     info:
       - role: Support Manager
-        time: 2020 - Present
+        time: 2021 - Present
         company: Nomitech
         details: |
            Responsible for any customer support interaction. 
-           In collaboration between development and operations departments.  
+           Coordinating work and sharing information between development and operations departments.  
            Reproducing bugs and analysing customer feauture requests in video, gif, Figma, or plain language. 
            Remotely assisting in IT, RDWeb, SQL Server Management Studio related issues.
             - Jira administrator
@@ -80,7 +80,7 @@ experiences:
         time: 2019-2021
         company: Terna Energy (HST)
         details: |
-            Providing 1st/2nd level support. IT issues, Logs investigation, financial/smarticket related issues.
+            Providing 1st/2nd level support. Resoliving IT issues, logs investigation, financial/smarticket related issues.
             Process manager assistant.
             - Wiki administrator
             - Sharepoint administrator
@@ -98,7 +98,7 @@ experiences:
          - Project manager assistant using Primavera Software
       - role: Informatics Teacher
         time:  2010-2011
-        company: IEK DELTA (Thessaloniki) 
+        company: IEK DELTA  
         details: |    
          Office, C++
       - role: Customer Technical Support
