@@ -69,17 +69,17 @@ experiences:
     info:
       - role: Support Manager
         time: 2020 - Present
-        company: Nomitech  
+        company: Nomitech
         details: |
            Worlwide responsible for any customer support interaction. 
            Providing collaboration between development and operations depts.  
            Reproducing bugs and analysing any customer feauture requests in Figma, video, gif and plain language. 
-           Remotely assisting in IT, RDWeb, Windows Server, SQL Server Management Studio related issues.
+           Remotely assisting in IT, SQL Server Management Studio related issues.
             - Jira administrator
             - Knowledge base administrator 
       - role: Monitoring operator  
         time: 2019-2021
-        company: Terna Energy (HST) 
+        company: Terna Energy (HST)
         details: |
             Providing 1st/2st level support. IT issues, Logs investigation, financial/smarticket related issues.
             Process manager assistant.
@@ -87,19 +87,19 @@ experiences:
             - Jira user
       - role: Customer Technical Support
         time:  2012-2019
-        company: OTE Group of Companies (HTO) 
+        company: OTE Group of Companies (HTO)
         details: |
           Providing  1st level support: telephony,  IPTV, SAT, Internet.
           Member of the golden team to address 1st importance customers. 
           - Siebel user
       - role: Computer Engineer
         time:  2011-2012
-        company: TEKIM Automations S.A 
+        company: TEKIM Automations S.A
         details: |  
          - Project manager assistant (Primavera)
       - role: Informatics Teacher
         time:  2010-2011
-        company: IEK DELTA 
+        company: IEK DELTA  
         details: |    
          Office, C++
       - role: Customer Technical Support
