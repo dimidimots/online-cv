@@ -81,7 +81,7 @@ experiences:
         time: 2019-2021
         company: Terna Energy (HST)
         details: |
-            Providing 1st/2st level support. IT issues, Logs investigation, financial/ticket related issues .
+            Providing 1st/2st level support. IT issues, Logs investigation, financial/smarticket related issues.
             Process manager assistant.
             - Wiki administrator
             - Jira user
@@ -108,13 +108,13 @@ experiences:
         details: |
          Providing  1st level support: internet
                      
-publications:
+thesis:
     title: Publications
     intro: 
     papers:
       - title: Statistical analysis of the data from telecommunication providers
         link: 
-        authors: Dimitris Dimotsis 2018
+        authors: Dimitris Dimotsis, 2018
         conference: 
         
 
