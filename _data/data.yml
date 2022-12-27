@@ -142,8 +142,8 @@ experiences:
             - Bullet point
             - Bullet point          
       - role: Computer Engineer
-        time:  2011-2012
-        company: TEKIM Automations S.A
+        time:  2010-2011
+        company: IEK DELTA Thessaloniki 
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -152,9 +152,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point        
-      - role: Computer Engineer
-        time:  2011-2012
-        company: TEKIM Automations S.A
+      - role: Customer Service Technical Support
+        time:  2009
+        company: Teleperformance
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
