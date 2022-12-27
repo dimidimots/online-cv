@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: dimitrisdimotsis@yahoo.com
-    phone: 306974406000  
+    phone: +306974406000  
     citizenship: Greek
     linkedin: dimitris-dimotsis-258896222
 
@@ -74,8 +74,8 @@ experiences:
         details: |
            Worlwide responsible for any customer support interaction. 
            Providing collaboration between development and operations depts.  
-           Reproducing bugs and analysing any customer feauture requests in video, gif, Figma and plain language. 
-           Remotely assisting in IT, Server Management Studio related issues.
+           Reproducing bugs and analysing any customer feauture requests in Figma, video, gif and plain language. 
+           Remotely assisting in IT, SQL related issues.
             - Jira administrator
             - Knowledge base administrator 
       - role: Monitoring operator  
@@ -97,7 +97,7 @@ experiences:
         time:  2011-2012
         company: TEKIM Automations S.A
         details: |  
-          Computer Engineer & project manager assistant (Primavera)
+          Project manager assistant (Primavera)
       - role: Informatics Teacher
         time:  2010-2011
         company: IEK DELTA Thessaloniki 
@@ -107,15 +107,14 @@ experiences:
         time:  2009
         company: Teleperformance
         details: |
-        Providing  1st level support telephony/internet
                      
 publications:
     title: Publications
     intro: 
     papers:
-      - title: Statistical analysis of the data from telecommunucation providers, msc thesis
+      - title: Statistical analysis of the data of telecommunucation providers
         link: 
-        authors: Dimitris Dimotsis 2018
+        authors: Dimitris Dimotsis
         conference: 
         
 
