@@ -34,9 +34,7 @@ sidebar:
       title: Interests
       info:
         - item: Hiking
-          
-
-        
+         
 
 career-profile:
     title: Career Profile
@@ -72,39 +70,25 @@ experiences:
         time: 2020 - Present
         company: Nomitech
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Monitoring operator
+           Responsible for any customer worlwide support interaction. Providing collaboration between development and operations depts. Assisting in IT issues.
+           Also, reproducing bugs and analysing customer feauture requests in Figma, video, gif and simple language  
+            - Jira administrator
+            - Knowledge base administrator
+      - role: Monitoring operator  
         time: 2019-2021
-        company: Terna Energy 
+        company: Terna Energy (HST)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Providing 1st/2st level support. IT issues, financial issues in all HST issues
+            Process manager assistant.
+            - Wiki administrator
+            - Jira user
       - role: Customer Technical Support
         time:  2012-2019
         company: OTE Group of Companies (HTO)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Providing  1st level support telephony, IPTV, SAT, internet.
+          Also a member of the golden team to address 1st importance customers. 
+   
       - role: Computer Engineer
         time:  2011-2012
         company: TEKIM Automations S.A
@@ -122,9 +106,9 @@ publications:
     title: Publications
     intro: 
     papers:
-      - title: Στατιστική επεξεργασία των οικονομικών δεδομένων των παρόχων τηλεπικοινωνιών.
+      - title: Statistical analysis of the data of telecommunucation providers
         link: 
-        authors: Δημήτρης Δημότσης
+        authors: Dimitris Dimotsis
         conference: 
 
      
