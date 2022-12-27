@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A Strong information technology professional with a Master's degree in Quality assurance from Hellenic Open University.
+      A Strong information technology professional with a Master's degree in Quality assurance.
  
 career-profile:
     title: Career Profile
@@ -54,7 +54,7 @@ education:
         university: Hellenic Open University   
         time: 2020-Present
         details: |
-          final year
+          Final year
              
       - degree: MSc in Quality Assurance
         university: Hellenic Open University 
@@ -100,7 +100,7 @@ experiences:
           Project manager assistant (Primavera)
       - role: Informatics Teacher
         time:  2010-2011
-        company: IEK DELTA Thessaloniki 
+        company: IEK DELTA (Thessaloniki) 
         details: |    
          Office, C++
       - role: Customer Technical Support
@@ -114,7 +114,7 @@ publications:
     papers:
       - title: Statistical analysis of the data of telecommunucation providers
         link: 
-        authors: Dimitris Dimotsis
+        authors: Dimitris Dimotsis 2018
         conference: 
         
 
