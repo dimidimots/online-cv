@@ -70,15 +70,15 @@ experiences:
         time: 2020 - Present
         company: Nomitech
         details: |
-           Responsible for any customer worlwide support interaction. Providing collaboration between development and operations depts. Assisting in IT issues.
-           Also, reproducing bugs and analysing customer feauture requests in Figma, video, gif and simple language  
+           Worlwide responsible for any customer support interaction. Providing collaboration between development and operations depts. Assisting in IT issues. 
+           Reproducing bugs and analysing any customer feauture requests in Figma, video, gif and plain language  
             - Jira administrator
-            - Knowledge base administrator
+            - Knowledge base administrator 
       - role: Monitoring operator  
         time: 2019-2021
         company: Terna Energy (HST)
         details: |
-            Providing 1st/2st level support. IT issues, financial issues in all HST issues
+            Providing 1st/2st level support. IT issues, Logs investigation, financial issues
             Process manager assistant.
             - Wiki administrator
             - Jira user
@@ -86,8 +86,8 @@ experiences:
         time:  2012-2019
         company: OTE Group of Companies (HTO)
         details: |
-          Providing  1st level support telephony, IPTV, SAT, internet.
-          Also a member of the golden team to address 1st importance customers. 
+          Providing  1st level support telephony, IPTV, SAT, Internet.
+          Member of the golden team to address 1st importance customers. 
    
       - role: Computer Engineer
         time:  2011-2012
@@ -110,6 +110,7 @@ publications:
         link: 
         authors: Dimitris Dimotsis
         conference: 
+        
 
      
 footer: >
