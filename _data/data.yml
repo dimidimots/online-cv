@@ -19,7 +19,7 @@ sidebar:
  
     languages:
       title: Languages
-       info:
+      info:
         - idiom: Greek
           level: Native
 
@@ -81,7 +81,7 @@ experiences:
         time: 2019-2021
         company: Terna Energy (HST)
         details: |
-            Providing 1st/2nd level technical support. 
+            Providing 1st/2nd level support. 
             
             Resoliving IT issues, logs investigation, financial/smarticket related issues.
             - Process manager assistant
@@ -92,7 +92,7 @@ experiences:
         company: OTE Group of Companies (HTO)
         details: |
           Providing  1st level support: telephony,  IPTV, SAT, Internet.
-          Member of the gold team to deal with VIP customers. 
+          Member of the gold team to address 1st importance customers. 
           - Siebel user
       - role: Computer Engineer
         time:  2011-2012
