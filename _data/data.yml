@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: dimitrisdimotsis@yahoo.com
-    phone: +306974406000  
+    phone: +30 6974406000  
     citizenship: Greek
     linkedin: dimitris-dimotsis-258896222
  
@@ -72,6 +72,7 @@ experiences:
         details: |
            Responsible for any customer support interaction. 
            Coordinating work and sharing information between development and operations departments.  
+           
            Reproducing bugs and analysing customer feauture requests in video, gif, Figma, or plain language. 
            Remotely assisting in IT, RDWeb, SQL Server Management Studio related issues.
             - Jira administrator
@@ -80,8 +81,10 @@ experiences:
         time: 2019-2021
         company: Terna Energy (HST)
         details: |
-            Providing 1st/2nd level support. Resoliving IT issues, logs investigation, financial/smarticket related issues.
-            Process manager assistant.
+            Providing 1st/2nd level support. 
+            
+            Resoliving IT issues, logs investigation, financial/smarticket related issues.
+            - Process manager assistant
             - Wiki administrator
             - Sharepoint administrator
       - role: Customer Technical Support
