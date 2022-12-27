@@ -72,15 +72,17 @@ experiences:
         time: 2020 - Present
         company: Nomitech
         details: |
-           Worlwide responsible for any customer support interaction. Providing collaboration between development and operations depts. Assisting in IT issues. 
-           Reproducing bugs and analysing any customer feauture requests in Figma, video, gif and plain language  
+           Worlwide responsible for any customer support interaction. 
+           Providing collaboration between development and operations depts.  
+           Reproducing bugs and analysing any customer feauture requests in Figma, video, gif and plain language. 
+           Remotely assisting in IT, SQL issues.
             - Jira administrator
             - Knowledge base administrator 
       - role: Monitoring operator  
         time: 2019-2021
         company: Terna Energy (HST)
         details: |
-            Providing 1st/2st level support. IT issues, Logs investigation, financial issues
+            Providing 1st/2st level support. IT issues, Logs investigation, financial issues.
             Process manager assistant.
             - Wiki administrator
             - Jira user
@@ -90,16 +92,18 @@ experiences:
         details: |
           Providing  1st level support telephony, IPTV, SAT, Internet.
           Member of the golden team to address 1st importance customers. 
-   
+          - Siebel user
       - role: Computer Engineer
         time:  2011-2012
         company: TEKIM Automations S.A
         details: |  
+          Project manager assistant (Primavera)
       - role: Informatics Teacher
         time:  2010-2011
         company: IEK DELTA Thessaloniki 
         details: |    
-      - role: Customer Service Technical Support
+         Office, C++
+      - role: Customer Technical Support
         time:  2009
         company: Teleperformance
         details: |
