@@ -34,7 +34,7 @@ sidebar:
       title: Interests
       info:
         - item: Hiking
-          link:
+          
 
         
 
@@ -59,25 +59,11 @@ education:
       - degree: MSc in Quality Assurance
         university: Hellenic Open University 
         time: 2015-2018
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: 
       - degree: BSc in Computer Science
         university: Technological Educational Institute of Thessaloniki
         time: 2001-2009
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
             
 experiences:
     title: Experiences
@@ -122,25 +108,11 @@ experiences:
       - role: Computer Engineer
         time:  2011-2012
         company: TEKIM Automations S.A
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point          
+        details: |  
       - role: Computer Engineer
         time:  2010-2011
         company: IEK DELTA Thessaloniki 
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point        
+        details: |     
       - role: Customer Service Technical Support
         time:  2009
         company: Teleperformance
