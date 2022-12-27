@@ -46,12 +46,7 @@ career-profile:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A Strong information technology professional with a Master's degree in Quality assurance from Hellenic Open University.
 education:
     title: Education
     info:
@@ -89,7 +84,6 @@ education:
             - Bullet point
             - Bullet point
             
- 
 experiences:
     title: Experiences
     info:
@@ -156,25 +150,15 @@ experiences:
         time:  2009
         company: Teleperformance
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point           
-           
-
-
-
+                     
 publications:
     title: Publications
     intro: 
     papers:
       - title: Στατιστική επεξεργασία των οικονομικών δεδομένων των παρόχων τηλεπικοινωνιών.
-        link: "#"
+        link: 
         authors: Δημήτρης Δημότσης
-        conference: Addison-Wesley, 1968
+        conference: 
 
      
 footer: >
