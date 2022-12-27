@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: dimitrisdimotsis@yahoo.com
-    phone: +306974406000  
+    phone: 306974406000  
     citizenship: Greek
     linkedin: dimitris-dimotsis-258896222
 
@@ -75,7 +75,7 @@ experiences:
            Worlwide responsible for any customer support interaction. 
            Providing collaboration between development and operations depts.  
            Reproducing bugs and analysing any customer feauture requests in video, gif, Figma and plain language. 
-           Remotely assisting in IT, SQL related issues.
+           Remotely assisting in IT, Server Management Studio related issues.
             - Jira administrator
             - Knowledge base administrator 
       - role: Monitoring operator  
@@ -113,9 +113,9 @@ publications:
     title: Publications
     intro: 
     papers:
-      - title: Statistical analysis of the data of telecommunucation providers
+      - title: Statistical analysis of the data from telecommunucation providers, msc thesis
         link: 
-        authors: Dimitris Dimotsis
+        authors: Dimitris Dimotsis 2018
         conference: 
         
 
