@@ -99,7 +99,7 @@ experiences:
          - Project manager assistant (Primavera)
       - role: Informatics Teacher
         time:  2010-2011
-        company: IEK DELTA  
+        company: IEK DELTA (Thessaloniki) 
         details: |    
          Office, C++
       - role: Customer Technical Support
@@ -118,3 +118,6 @@ thesis:
         conference: 
         
 
+     
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
