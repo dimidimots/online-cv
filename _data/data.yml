@@ -45,7 +45,7 @@ career-profile:
 career-profile:
     title: Curriculum Vitae
     summary: |
-      A Strong information technology professional with a Master's degree in Quality assurance.
+      A strong information technology professional with a Master's Degree in Quality Assurance.
 education:
     title: Education
     info:
@@ -80,7 +80,7 @@ experiences:
         time: 2019-2021
         company: Terna Energy (HST)
         details: |
-            Providing 1st/2st level support. IT issues, Logs investigation, financial/smarticket related issues.
+            Providing 1st/2nd level support. IT issues, Logs investigation, financial/smarticket related issues.
             Process manager assistant.
             - Wiki administrator
             - Sharepoint administrator
@@ -95,7 +95,7 @@ experiences:
         time:  2011-2012
         company: TEKIM Automations S.A
         details: |  
-         - Project manager assistant (Primavera)
+         - Project manager assistant using Primavera Software
       - role: Informatics Teacher
         time:  2010-2011
         company: IEK DELTA (Thessaloniki) 
