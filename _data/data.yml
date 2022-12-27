@@ -46,7 +46,7 @@ career-profile:
 career-profile:
     title: Career Profile
     summary: |
-      A Strong information technology professional with a Master's degree in Quality assurance from Hellenic Open University.
+      A Strong information technology professional with a Master's degree in Quality assurance.
 education:
     title: Education
     info:
@@ -55,7 +55,6 @@ education:
         time: 2020-Present
         details: |
           Final year
-             
       - degree: MSc in Quality Assurance
         university: Hellenic Open University 
         time: 2015-2018
@@ -75,14 +74,14 @@ experiences:
            Worlwide responsible for any customer support interaction. 
            Providing collaboration between development and operations depts.  
            Reproducing bugs and analysing any customer feauture requests in Figma, video, gif and plain language. 
-           Remotely assisting in IT, SQL related issues.
+           Remotely assisting in IT, SQL Server Management Studio related issues.
             - Jira administrator
             - Knowledge base administrator 
       - role: Monitoring operator  
         time: 2019-2021
         company: Terna Energy (HST)
         details: |
-            Providing 1st/2st level support. IT issues, Logs investigation, financial issues.
+            Providing 1st/2st level support. IT issues, Logs investigation, financial/ticket related issues .
             Process manager assistant.
             - Wiki administrator
             - Jira user
@@ -90,7 +89,7 @@ experiences:
         time:  2012-2019
         company: OTE Group of Companies (HTO)
         details: |
-          Providing  1st level support telephony, IPTV, SAT, Internet.
+          Providing  1st level support: telephony,  IPTV, SAT, Internet.
           Member of the golden team to address 1st importance customers. 
           - Siebel user
       - role: Computer Engineer
@@ -107,6 +106,7 @@ experiences:
         time:  2009
         company: Teleperformance
         details: |
+         Providing  1st level support: internet
                      
 publications:
     title: Publications
